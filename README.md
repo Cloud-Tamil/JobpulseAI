@@ -1,5 +1,7 @@
 # JobPulse AI
 
+<img width="1024" height="254" alt="image" src="https://github.com/user-attachments/assets/afc41742-6a70-41dd-b323-4694b44962a6" />
+
 A conversational AI assistant with recruiter & career intelligence, built with React, Vite, and Tailwind CSS in the style of Claude.ai and ChatGPT.
 
 ## Project Structure
